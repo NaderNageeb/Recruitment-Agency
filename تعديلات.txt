@@ -1,6 +1,0 @@
-policy added
-
-check New colum in registration JOb table
-
-
-employee must contine a new colume and the count of applicants
